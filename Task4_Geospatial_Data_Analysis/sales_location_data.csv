@@ -1,0 +1,6 @@
+Region,Latitude,Longitude,Sales,Demand,Presence
+Hyderabad,17.3850,78.4867,120000,High,Yes
+Bangalore,12.9716,77.5946,150000,High,Yes
+Vijayawada,16.5062,80.6480,90000,High,No
+Warangal,17.9689,79.5941,85000,High,No
+Chennai,13.0827,80.2707,110000,Medium,Yes
